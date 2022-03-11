@@ -1,3 +1,5 @@
+[\[←\]](../prime-dao.md)
+
 # Prime Launch
 
 **Prime Launch** is a curated token offering platform powered by [Balancer V2](https://docs.balancer.fi/) that enables fair and user-friendly token launches. It uses fully decentralized infrastructure and it is run by a DAO.
