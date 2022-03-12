@@ -4,9 +4,10 @@
 
 **Prime Launch** is a curated token offering platform powered by [Balancer V2](https://docs.balancer.fi/) that enables fair and user-friendly token launches. It uses fully decentralized infrastructure and it is run by a DAO.
 
-Project teams and DAOs can use Prime Launch to distribute tokens and raise capital. Users looking to acquire tokens can get access to a DAO-curated list of newly launching Web3 projects.
+- Project teams and DAOs can use Prime Launch to distribute tokens and raise capital.
+- Users looking to acquire tokens can get access to a DAO-curated list of newly launching Web3 projects.
 
-There are two methods for hosting a Prime Launch: Seed Launch and Liquid Launch.
+There are two methods for hosting a Prime Launch: **Seed Launch** and **Liquid Launch**.
 
 ## Seed Launch
 
