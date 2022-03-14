@@ -1,4 +1,4 @@
-**Source:** ["Ownership in Cryptonetworks" by Pat Rawson](https://blog.curvelabs.eu/ownership-in-cryptonetworks-96f13f4a113e)
+**Source:** ["Ownership in Cryptonetworks" by Pat Rawson from Curve Labs](https://blog.curvelabs.eu/ownership-in-cryptonetworks-96f13f4a113e)
 
 # Ownership in cryptonetworks
 
