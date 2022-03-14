@@ -1,4 +1,4 @@
-[\[←\]](../prime-dao.md)
+[\[←\]](../README.md)
 
 # Prime Rating
 
