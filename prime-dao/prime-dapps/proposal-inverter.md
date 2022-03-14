@@ -10,4 +10,4 @@ This enables the collaborative funding of proposals that benefit multiple DAOs t
 
 Ultimately, it is proposed as a lower overhead funding mechanism for continuous work that delivers shared benefits to multiple groups.
 
-![Proposal Inverter Mechanism Framework 0.1](../../articles/images/proposal-inverter-mechanism.jpeg)
+![Proposal Inverter Mechanism Framework 0.1](../../images/proposal-inverter-mechanism.jpeg)
