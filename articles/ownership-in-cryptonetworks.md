@@ -22,7 +22,7 @@ There are certain key ownership types, such as a DAO >50% of the ownership of an
 
 ### Control network of the Toyota Group
 
-![Corporate control network of the Toyota Group](../images/toyota-corporate-control-network.png)
+![Corporate control network of the Toyota Group](https://user-images.githubusercontent.com/81234139/169283160-7e96e696-c5b1-44e3-8c8a-3c9c571f70a3.png)
 
 - Red nodes indicate (interlocked) parent companies
 - Green nodes represent majority-owned subsidiaries
@@ -84,7 +84,7 @@ When choosing which structure of crypto-institutional control network aligns wit
 
 Simply put, **DAOs should find and recruit the best collection of *squads* to grow themselves**.
 
-![To weather a crisis, build a network of teams, McKinsey & Co, 2020](../images/network-of-teams.png)
+![To weather a crisis, build a network of teams, McKinsey & Co, 2020](https://user-images.githubusercontent.com/81234139/169283225-d541730e-fb60-4d0a-b0c0-18d41b1bbc1e.png)
 
 **From the top-down**, DAO treasuries should distribute ownership to many subsidiaries, i.e., generously fund them.
 
