@@ -165,7 +165,7 @@ A Pool Party brings together a multidisciplinary set of stakeholders who represe
 
 As Toucan evolves, stakeholder engagement and governance processes will become increasingly decentralized and community-driven. This is a priority but also, an incremental evolution over time.
 
-### Burning = Offsetting
+## Burning = Offsetting
 
 Whenever a business or individual wants to **compensate their emissions** with carbon credits, the credits need to be permanently removed from circulation. This prevents somebody from reselling the credits at a future point in time, falsifying the compensation claim. In the Toucan universe, the Carbon Offset module will take care of guaranteeing claims can only be made once by burning the TCO2 tokens that embody the right to that claim.
 
