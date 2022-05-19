@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/81234139/169283687-22c7ea57-679e-45ba-92ca-91cf52ac2392.png)
+
 # PrimeDAO
 
 **PrimeDAO** provides decentralized, participatory, human-centric, and impact-focused infrastructure and tools for cross-DAO coordination.
