@@ -34,7 +34,7 @@ After projects have proven that they've removed or reduced GHG emissions they ar
 
 # Bridge
 
-The Carbon Bridge allows anybody to bring their carbon credits on-chain in a tokenized form. Even though the Carbon Bridge currently connects legacy carbon registries exclusively with the Toucan Registry (an on-chain registry on the Polygon network), the plan is to turn carbon into a **multi-chain** asset, so more public blockchains will be supported in the future.
+The **Carbon Bridge** allows anybody to bring their carbon credits on-chain in a tokenized form. Even though the Carbon Bridge currently connects legacy carbon registries exclusively with the Toucan Registry (an on-chain registry on the Polygon network), the plan is to turn carbon into a **multi-chain** asset, so more public blockchains will be supported in the future.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/81234139/169004621-374a1d0f-e74e-4ee5-89ae-cd8533520b37.png" />
@@ -105,3 +105,70 @@ Since NFTs can be a bit unpractical for many other use cases (such as sending a 
 When you fractionalize a BatchNFT, the ERC20 token will have TCO2- as a prefix, followed by an information-rich name that includes the registry of origin, the project, the vintage, and so on (e.g., TCO2-GS-0001-2019).
 
 There's one downside to this: because they are specific to a single project and vintage, TCO2 tokens are not very liquid. What if we want to create a liquid market for soil carbon where all soil carbon credits are treated equally? This would allow deep liquidity to be aggregated, key for fair and efficient price discovery for a specific type of carbon asset—something we are struggling to find in the "real world". The solution to this problem are **Carbon Pools**.
+
+# Pools
+
+Carbon credits are, at the core, **highly differentiated assets**: some draw down emissions from the atmosphere while others avoid them; they all use different techniques like reforestation, protecting forests from deforestation, building renewable energy projects, capturing methane, capturing and storing carbon (CCS), etc.; they're based in different countries and have varying levels of quality as measured by their additionality (i.e., the degree to which the underlying project would not have happened if it weren't for the offset's monetary contribution), permanence (i.e., the number of years the carbon is expected to remain captured/avoided), and co-benefits (i.e., additional benefits like increases in biodiversity or specific SDGs), among other factors.
+
+As such, carbon credits end up being traded and sold like differentiated products rather than commodities, and the majority of transactions happen OTC so offset prices remain unknown to the broader market. Toucan's **Carbon Pools** bundle multiple project-specific tokenized carbon tonnes (TCO2 tokens) into more liquid carbon index tokens, enabling some level of commoditization and facilitating price discovery for different classes of carbon assets.
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/81234139/169243077-359f6ff0-f4ea-4a71-a5a0-ae2995131c8b.png" />
+</p>
+
+## Pool Logic and Deposits
+
+Each pool has a unique configuration and carries a certain logic that dictates which TCO2 tokens can be deposited into it. This logic is based on two filters:
+- **Is the token to be deposited a TCO2 Toucan carbon token?** This check guarantees that only whitelisted token contracts are accepted and prevents somebody from depositing a custom token into a carbon pool.
+- **Do the TCO2 token attributes satisfy the pool's requirements?** When a pool is deployed, it needs to specify _gating attributes_. Any TCO2 token deposited in the pool _must_ contain at least three attributes, otherwise the deposit transaction will revert.
+
+A few examples of gating attributes a carbon reference pool might have:
+- `type = removal` - a pool that only accepts carbon removal TCO2s.
+- `vintage = >2015` - a pool that only accepts TCO2s from 2016 and later.
+- `country = Colombia` - a pool that only accepts TCO2s from Colombia.
+
+The Toucan team has worked with KlimaDAO to deploy the first carbon reference pool, the **Base Carbon Ton (BCT)**. The gating attributes of the BCT reference pool: TCO2 tokens must be Verra VCUs and they must have a vintage of 2008 or greater.
+
+Once the TCO2 token passes the logic filter, the token gets locked inside the pool, and a carbon reference token (e.g., BCT) is created and sent to the depositor's wallet.
+
+In the 'Pools' section of Toucan's dApp, you should see the TCO2 tokens available to send to a pool; click "Send to pool" to deposit. You will automatically receive the pool tokens (e.g., BCT) in the same transaction.
+
+<img src="https://user-images.githubusercontent.com/81234139/169262633-0fb22d78-48bd-403e-9e4b-99456e054f72.png" width="750px" />
+
+## Pool Acceptance Criteria
+
+Currently, two Toucan Carbon Pools exist, **BCT** (Base Carbon Tonne) and **NCT** (Nature Carbon Tonne). In order for bridged credits (TCO2s) to be added to one of the pools, they must fulfill certain acceptance criteria.
+
+### BCT Acceptance Criteria
+
+- **Approved methodologies:** All Verra-approved methodologies (incl. Verra Standard Methodologies, CDM, CAR), excluding all versions of "AM0001: Decomposition of fluoroform (HFC-23) waste streams".
+- **Earliest vintage:** 01/01/2008.
+
+### NCT Acceptance Criteria
+
+- **Approved methodologies:** [List](https://docs.toucan.earth/protocol/pool/pool-acceptance-criteria#nct). Excludes projects using methodology "VM0022: Quantifying N20 Emissions Reductions in Agricultural Crops through Nitrogen Fertilizer Rate Reduction" and projects issuing credits under non-nature based methodologies additionally to nature-based methodologies within the same project scope.
+- **Earliest vintage:** 01/01/2012.
+
+## Carbon Reference Tokens
+
+Many **carbon reference tokens** (e.g., BCT, NCT) have a matching trading pair on common DEXs. This allows carbon pool token holders to directly sell their pool tokens into the market or provide liquidity to the trading pair and earn fees.
+
+Carbon reference tokens with deep enough liquidity represent new DeFi building blocks that can be integrated into lending protocols, locked into planet-positive NFTs, or serve as collateral for stablecoins and carbon-backed cryptocurrencies.
+
+At any point, the holder of a carbon reference token can burn it to **redeem any underlying project-specific TCO2 tokens**. This opens up arbitrage opportunities if a particular TCO2 could be deposited into multiple pools, and guarantees the creation of a price floor for on-chain carbon reference tokens.
+
+## Pool Parties
+
+A **Toucan Pool Party** is the participatory process for launching a new Carbon Pool. To ensure the success of a new pool, and to align with our collaborative values, it is imperative that we meaningfully engage with industry experts and key stakeholders.
+
+A Pool Party brings together a multidisciplinary set of stakeholders who represent different interest groups who want to see the pool succeed and thrive. Over the course of several weeks, gating criteria are considered, threats and risks are discussed, a launch plan is created and alignment forms.
+
+As Toucan evolves, stakeholder engagement and governance processes will become increasingly decentralized and community-driven. This is a priority but also, an incremental evolution over time.
+
+### Burning = Offsetting
+
+Whenever a business or individual wants to **compensate their emissions** with carbon credits, the credits need to be permanently removed from circulation. This prevents somebody from reselling the credits at a future point in time, falsifying the compensation claim. In the Toucan universe, the Carbon Offset module will take care of guaranteeing claims can only be made once by burning the TCO2 tokens that embody the right to that claim.
+
+This means that a user can buy and hold a carbon reference token like BCT, and 2 years later burn them to take climate action with a carbon project of their liking (by redeeming and burning the TCO2 tokens locked in the Base Carbon Pool). This guarantees accurate carbon accounting and allows businesses to communicate clearly which projects they have supported—recorded on a public blockchain until the end of time.
+
+We'll share more on functionality we'll release soon to retire offsets to compensate emissions. Would anyone like a proof-of-planet-positivity NFT????
