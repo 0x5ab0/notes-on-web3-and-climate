@@ -48,7 +48,7 @@ To provide a neutral and all-encompassing opinion on open-finance protocols, Pri
 
 By being permissionless, Prime Rating is more resilient, neutral, and able to leverage the wisdom of the crowd. All Prime Ratings and documents are publicly available and can be accessed non-exclusively by anyone with an internet connection, making Prime Rating a public good for the benefit of the systemic advancement of open finance.
 
-![Prime Rating framework](../../images/prime-rating-framework.png)
+![Prime Rating framework](https://user-images.githubusercontent.com/81234139/169282845-307c7602-7bb9-43ae-8629-573ff6bb5a47.png)
 
 1. Prime Rating provides report templates
 2. Raters evaluate a protocol using either a fundamental or technical report template
