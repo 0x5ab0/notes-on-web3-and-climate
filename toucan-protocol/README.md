@@ -174,5 +174,3 @@ As Toucan evolves, stakeholder engagement and governance processes will become i
 Whenever a business or individual wants to **compensate their emissions** with carbon credits, the credits need to be permanently removed from circulation. This prevents somebody from reselling the credits at a future point in time, falsifying the compensation claim. In the Toucan universe, the Carbon Offset module will take care of guaranteeing claims can only be made once by burning the TCO2 tokens that embody the right to that claim.
 
 This means that a user can buy and hold a carbon reference token like BCT, and 2 years later burn them to take climate action with a carbon project of their liking (by redeeming and burning the TCO2 tokens locked in the Base Carbon Pool). This guarantees accurate carbon accounting and allows businesses to communicate clearly which projects they have supported—recorded on a public blockchain until the end of time.
-
-We'll share more on functionality we'll release soon to retire offsets to compensate emissions. Would anyone like a proof-of-planet-positivity NFT????
