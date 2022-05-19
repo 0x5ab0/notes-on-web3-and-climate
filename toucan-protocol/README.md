@@ -1,6 +1,10 @@
-Toucan is building the public infrastructure needed to create programmable carbon.
+![image](https://user-images.githubusercontent.com/81234139/169283784-bb6ac81f-c0e6-44c1-bf17-f0dcd475f985.png)
 
-To bring carbon on-chain, they've built the **Carbon Bridge**, which allows anybody to tokenize their carbon credits. **Carbon Pools** then turn tokenized carbon credits into more liquid carbon reference tokens, enabling price discovery for different classes of carbon assets and providing a new money lego to DeFi.
+**Toucan** is building the public infrastructure needed to create programmable carbon.
+
+To bring carbon on-chain, they've built the **Carbon Bridge**, which allows anybody to tokenize their carbon credits.
+
+**Carbon Pools** then turn tokenized carbon credits into more liquid carbon reference tokens, enabling price discovery for different classes of carbon assets and providing a new money lego to DeFi.
 
 # Introduction
 
