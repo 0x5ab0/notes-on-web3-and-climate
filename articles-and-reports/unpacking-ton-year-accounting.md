@@ -1,4 +1,4 @@
-**Source:** ["Unpacking Ton-Year Accounting" by CarbonPlan]([https://carbonplan.org/research/ton-year-explainer](https://carbonplan.org/research/ton-year-explainer))
+**Source:** ["Unpacking Ton-Year Accounting" by CarbonPlan](https://carbonplan.org/research/ton-year-explainer)
 
 # Introduction
 
