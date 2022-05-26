@@ -281,13 +281,32 @@ A gigatonne of CO2 removed per year is a massive scale to comprehend. The follow
   <tr>
     <th>Energy requirement</th>
     <td>Trees harvest energy from sunlight and natural processes</td>
-    <td>**Solvent:** 258 GWyr energy generation (8.12 GJ/tCO2, requiring 5.25 GJ/tCO2 of high-temperature thermal heat (~900</td>
-    <td></td>
+    <td><strong>Solvent:</strong> 258 GWyr energy generation (8.12 GJ/tCO2, requiring 5.25 GJ/tCO2 of high-temperature thermal heat (~900°C))
+<br><strong>Sorbent:</strong> 187 - 238 GWyr energy generation (5.92 - 7.5 GJ/tCO2, requiring roughly 80% thermal energy ≥ 80°C)</td>
+    <td>World energy consumption in 2019: ~19,000 GWyrᴱ</td>
   </tr>
   <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td></td>
+    <td>Land area</td>
+    <td>Lower bound: 80 Mha (given an upper bound uptake of 12.5 tCO2/ha/yr)</td>
+    <td><strong>Solvent DACCS facility:</strong> 0.7 Mha<br><strong>Area for energy generation:</strong> Natural gas: 0.036 Mha, Solar: 3.3Mha<br><strong>Sorbent DACCS facility:</strong> 0.1 - 0.5 Mha<br><strong>Area for energy generation:</strong> Natural gas: 0.018 - 0.033 Mha, Solar: 1.6 - 3.0 Mha</td>
+    <td>Texas: ~70 Mha<br>Amazon rainforest: ~550 Mha<br>All US national parks: ~52 Mha</td>
+  </tr>
+  <tr>
+    <td>Water</td>
+    <td>92 km³/yr</td>
+    <td><strong>Solvent:</strong> 2 km³/yr (given: 20°C; relative humidity of 55%, and 2M potassium ion concentration)<br><strong>Sorbent:</strong> water produced as a byproduct</td>
+    <td>Global renewable freshwater on land is ~105,000 km³/yr, of which humans use ~25,000 km³/yr</td>
+  </tr>
+  <tr>
+    <td>Material requirement</td>
+    <td>0.55 kt nitrogen/yr</td>
+    <td><strong>Solvent:</strong> 0.5 - 10 Mt of KOH/yr 200 - 300 kt of CaCO3/yr<br><strong>Sorbent:</strong> 1 - 5 Mt sorbent/yr (sorbent replacement requirements annualized over the sorbent lifetime)</td>
+    <td>More than 15 Mt of reactive nitrogen is produced per year, and billions of tons of calcium carbonate (CaCO3) are mined per year</td>
+  </tr>
+  <tr>
+    <td>Storage and permanence</td>
+    <td>Carbon is stored predominantly as biomass in vegetation.<br>Vulnerable to disturbance due to land management changes or physical risks such as wildfire, drought, and insects.</td>
+    <td><strong>Solvent and Sorbent:</strong> CO2 is compresses and injected into geological formations, requiring ~1000 injection wells worldwide<br>High permanence given adequate geological storage</td>
+    <td>A single injection well is capable of ~1 MtCO2 storage per yaer (based on the Sleipner project)</td>
   </tr>
 </table>
