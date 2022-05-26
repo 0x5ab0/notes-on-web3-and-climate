@@ -1,4 +1,4 @@
-**Source:** ['CDR Primer' by CarbonPlan](https://cdrprimer.org/read)
+**Source:** ["CDR Primer" by CarbonPlan](https://cdrprimer.org/read)
 
 # Introduction
 
@@ -193,3 +193,101 @@ The following are key nuances to help readers distinguish between terms that may
 - **WBCSD:** World Business Council for Sustainable Development
 - **WGSR:** water-gas shift reaction
 - **wt:** weight
+
+# Chapter 1. The Case for Carbon Dioxide Removal: From Science to Justice
+
+Since the beginning of the pre-industrial era in 1850, humans have emitted approximately **2,400 GtCO2** into the atmosphere, about 55% of which has been absorbed by land and ocean sinks. Warming from CO2 and other GHG emissions has raised Earth's average temperature above pre-industrial levels **by more than 1° C**. This warming has initiated extensive changes in the climate, which are already causing significant harm to populations around the globe. To reduce future societal harm, many nations, members of civil society, and scientists advise prioritizing efforts and technologies that, first and foremost, significantly reduce GHG emissions.
+
+**Decarbonization** (i.e., achieving deep reductions in GHG emissions) is essential to managing the climate crisis. We now know, however, that **approaches that _remove_ CO2** from the atmosphere will also need to be deployed at a large scale this century to keep warming below dangerous levels.
+
+Only when the planet reaches **net-zero** greenhouse gas emissions will global warming cease. Reaching net-zero emissions will require **large-scale CDR** to offset continued **hard-to-avoid emissions** (HE). HE represent approximately 3.5-7.3% of 2019 global CO2 emission levels. Even if global decarbonization moves as quickly as possible and only HE are left over, keeping warming below 1.5° C will require removing gigatonnes of atmospheric CO2 per year by the end of the 21st century.
+
+This primer considers the prospects of achieving this large scale of CDR in the current century and presents a **framework for evaluating the feasibility of deploying CDR technologies and strategies**.
+
+To chart a path for **equitable CDR deployment** that goes beyond addressing climate change to benefit society as a whole and ensure justice for frontline, indigenous, and other marginalized communities, we need to consider every **policy option that is rooted in rigorous science**.
+
+## 1.1. Why do we need a primer on CDR now?
+
+As more nations announce climate neutrality legislation and set ambitious long-term goals, CDR has become a focus in the discussion about how to reach net-zero GHG emissions. Despite the growing conversation about climate neutrality and the need for CDR, however, **misconceptions and uncertainties** continue to hamper the design of equitable CDR implementation strategies that properly account for the risks and co-benefits of CDR deployment.
+
+This primer aims to:
+- **Frame the global CDR challenge**, unifying shared concepts across different approaches and acknowledging and explaining controversies.
+- **Create a universal set of terms and definitions** to communicate about CDR to a growing and diverse community.
+- **Help demonstrate how ethical, economic, and geographical considerations** can bridge lab-scale work and theoretical analyses to achieve reliable gigatonne-scale deployment.
+- **Be used as a teaching tool** to provide scientists, engineers, and policymakers with a guide for thinking about CDR so that they are better equipped to develop solutions.
+
+The following is a **list of some of the main CDR approaches**. While energy of capture per molecule of carbon dioxide is often the focus of technological approaches, other key metrics – such as land and material requirements, water usage, energy resource choice, and storage permanence – serve as performance indicators for evaluating trade-offs.
+
+<table>
+  <tr>
+    <th>CDR Approach</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>Afforestation & reforestation</td>
+    <td>Sequestration of CO2 in newly grown forests (afforestation). Regrowth of degraded or removed forests (reforestation).</td>
+  </tr>
+  <tr>
+    <td>Improved forest management</td>
+    <td>Alteration of forest management practices to increase carbon storage.</td>
+  </tr>
+  <tr>
+    <td>Biochar</td>
+    <td>Incorporation of solid residue from thermal degradation of biomass into soils.</td>
+  </tr>
+  <tr>
+    <td>Bioenergy with carbon capture and storage (BECCS)</td>
+    <td>Sequestration of CO2 in biomass, which is not released upon energy transformation, but rather captured and stored.</td>
+  </tr>
+  <tr>
+    <td>Building materials</td>
+    <td>Concrete curing, integration of mineralized carbon materials and plant fibers (see below).</td>
+  </tr>
+  <tr>
+    <td>Carbon mineralization</td>
+    <td>Reaction of natural or artificial alkaline minerals with CO2 to form solid carbonate minerals, such as calcite or magnesite.</td>
+  </tr>
+  <tr>
+    <td>Direct air capture with carbon storage (DACCS)</td>
+    <td>Chemical separation of CO2 from ambient air coupled to permanent storage.</td>
+  </tr>
+  <tr>
+    <td>Increasing ocean alkalinity</td>
+    <td>Enhancement of stored dissolved inorganic carbon in the ocean through the addition of alkalinity, generally through mineral dissolution or electrochemistry.</td>
+  </tr>
+  <tr>
+    <td>Soil carbon sequestration</td>
+    <td>Enhancement of carbon in soils by adjusting land management, e.g., reducing tillage or establishing agroforestry.</td>
+  </tr>
+  <tr>
+    <td>Coastal blue carbon</td>
+    <td>Sequestration of CO2 in additionally grown biomass and soils of restored ecosystems, including peatlands and coasts.</td>
+  </tr>
+  <tr>
+    <td>Marine biomass management and cultivation</td>
+    <td>The cultivation of microalgae or macroalgae in marine ecosystems for the purpose of increasing carbon sequestration in aquatic biomass, and/or enhancing the durability of sequestered carbon through improved management or utilization of biomass.</td>
+  </tr>
+</table>
+
+A gigatonne of CO2 removed per year is a massive scale to comprehend. The following table uses some highly simplified assumptions to get a rough sense of approximately how much energy, land, water, and material resources are needed to achieve 1 GtCO2/yr of removal. It provides **rough estimates for what is required to remove 1 GtCO2/yr**, comparing biological CDR methods of afforestation and reforestation (AR) to a technological method, direct air capture with carbon storage (DACCS).
+
+<table>
+  <tr>
+    <th></th>
+    <th>AR</th>
+    <th>DACCS</th>
+    <th>Context for Scale</th>
+  </tr>
+  <tr>
+    <th>Energy requirement</th>
+    <td>Trees harvest energy from sunlight and natural processes</td>
+    <td>**Solvent:** 258 GWyr energy generation (8.12 GJ/tCO2, requiring 5.25 GJ/tCO2 of high-temperature thermal heat (~900</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
