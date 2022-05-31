@@ -30,7 +30,7 @@ There is considerable consumer interest in taking our planet into account (as sh
 
 Taking a decentralized approach to this aim requires an ecosystem of organizations, each with their own important role.
 - **Regen Foundation** will spearhead the **scientific research and infrastructure development** necessary to create transparent and open Ecological State Protocols.
-- **Regen Consortium and the Community Staking Pools** will act as the **democratic body that stewards the ledger** and the cultural shift towards true-cost accounting, creating a culture of collaboration towards building the infrastructure needed to bring Earth‘s needs into our collective awareness and capacity for action.
+- **Regen Consortium and the Community Staking Pools** will act as the **democratic body that stewards the ledger** and the cultural shift towards true-cost accounting, creating a culture of collaboration towards building the infrastructure needed to bring Earth's needs into our collective awareness and capacity for action.
 - **Regen Ledger** will be the domain-specific blockchain acting as the transparent balance sheet for Earth.
 
 ### 1.3. Regen Ledger: Balance Sheet for Earth
@@ -39,7 +39,7 @@ For market-driven solutions to achieve regenerative outcomes, **full ecological 
 
 By tokenizing the common asset or infrastructure upon which economically generative (and in the case of Regen Network, ecologically regenerative) applications can be built, it becomes possible to make the evolution and development of this core infrastructure not only viable, but attractive to both developers and funders.
 
-Regen Ledger‘s native token, $REGEN, will offer the ability to collaborate to build information technology infrastructure to account for ecological value.
+Regen Ledger's native token, $REGEN, will offer the ability to collaborate to build information technology infrastructure to account for ecological value.
 
 ## 2. System Architecture
 
@@ -183,7 +183,7 @@ The core set of ESPs stewarded by the foundation will be developed by working gr
 
 As more and more data is collected through the use of ESPs, this data will serve as input for the development of the next generation of ESPs, and as training data for associated machine learning algorithms.
 
-Since the governance structure of the foundation gives Regen Consortium the responsibility to replace Regen Foundation‘s outgoing board directors, the long term maintenance of these core ESPs will effectively become a shared responsibility of the consortium. While the foundation and consortium will be stewarding this core set of ESPs, this effort will provide a template for other organizations to create ESPs suited to their needs and perspective, leading to an active, multi-stakeholder community working to further the state of ecological verification.
+Since the governance structure of the foundation gives Regen Consortium the responsibility to replace Regen Foundation's outgoing board directors, the long term maintenance of these core ESPs will effectively become a shared responsibility of the consortium. While the foundation and consortium will be stewarding this core set of ESPs, this effort will provide a template for other organizations to create ESPs suited to their needs and perspective, leading to an active, multi-stakeholder community working to further the state of ecological verification.
 
 In the following sections, we propose several core protocols to be stewarded by the foundation, including a brief discussion of the rationale for each protocol and the proposed verification mechanisms. It should be kept in mind that each protocol can be used independently or in combination as an attestation of regenerative land use with various EC contracts to reward and incentivize change.
 
@@ -217,7 +217,7 @@ A proof of concept protocol is currently under development and more information 
 
 #### 3.2.1. Grassland Health and Grazing Patterns Protocol
 
-**Grasslands** cover approximately **3.5 billion hectares** (26% of global ice-free land area and 70% of global agricultural area, containing about 20% of the world‘s SOC stocks). About 7.5% of worldwide grasslands have been degraded because of overgrazing. Regular monitoring at national and global scales is necessary for maintaining awareness of changes in natural and cultivated areas.
+**Grasslands** cover approximately **3.5 billion hectares** (26% of global ice-free land area and 70% of global agricultural area, containing about 20% of the world's SOC stocks). About 7.5% of worldwide grasslands have been degraded because of overgrazing. Regular monitoring at national and global scales is necessary for maintaining awareness of changes in natural and cultivated areas.
 
 Using **geospatial data**, the grassland open verification protocol will analyze grasslands for their ecological value and assess different ecological characteristics such as **biomass estimation**, **carbon sequestration**, **species diversity**, and **land use patterns**.
 
@@ -249,7 +249,16 @@ _Additional protocols can be found in the Regen Network Ecological State Protoco
 
 ## 4. Market
 
+Regen Network will open up a new economic paradigm in which **markets** are **able to appropriately incorporate ecological health**. The ability to tokenize the information and data layer of this ecological ledger is key for functionality, but the larger disruptive potential of this new economic paradigm that is being ushered in by blockchain is the **tokenization of specific living ecological capital assets**.
+
+The market section of **this document explores four existing markets** that will be fundamentally transformed by the ability to access verifiable ecological data and incorporate this data into Regen Ledger's smart contacting framework to create ecological contracts.
+
 ### 4.1. Economic Model
+
+There are **three key mechanisms** core to Regen Network's ability to reroute a trajectory towards a livable planet for future generations:
+- Rewarding regenerative ecological outcomes.
+- Incentivizing accurate ecological data to be produced and shared.
+- Open ource technological development aimed at ecological and agricultural applications in blockchain, remote sensing, IoT, machine learning, and fintech.
 
 ### 4.2. Application
 #### 4.2.1. Carbon Market Case Study
