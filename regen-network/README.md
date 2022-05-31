@@ -234,8 +234,18 @@ Thus, by having **a BCP that maps and measures water quality and pollution**, **
 For example, it now may be financially viable to shift from the monoculture chemical intensive practices of brackish shrimp farming, and regrow complex and biodiverse mangrove fisheries. Additionally, rewards for ecosystem improvements can be coupled with ECs and SPs to create a multi-layered, multi-stakeholder approach to ensure economic viability and reward ecological regeneration.
 
 #### 3.2.3. Adoption of Regenerative Agricultural Practices Protocol (RAPP)
+
+While **agriculture** is responsible for 18% of global greenhouse gas (GHG) emissions, it also holds incredible **potential as a net-carbon sink**. **Regenerative agriculture practices** aim to reverse climate change by **capturing carbon in soil and aboveground biomass**. Regenerative agriculture increases functional biodiversity, enriches soil quality, improves water cycling, and enhances all major ecosystem services. This results in increased yields, resilience to climate instability, and higher overall health and vitality for farming communities.
+
+The **RAPP** employs a set of **peer-reviewed ecosystem functions linked to regenerative agricultural practices**. The protocol requires high definition **satellite data**, real-time **ecological monitoring**, and **verified user input** as its main sources for verification. This protocol can then be **used by many ECs to incentivize a shift in agricultural practices**.
+
 #### 3.2.4. Methane Emissions Protocol (MEP)
 
+**Methane** is one of the GHGs with the greatest impact. Anthropogenic methane emissions are primarily caused by landfills, rice cultivation, livestock, biomass burning, coal mining, tundra melt, peatland destruction, and gas supply and flaring. In October 2018, level 2 products of the Sentinel 5-p satellite on methane emissions became available to the public through the **Copernicus open access hub**. The Sentinel 5-p uses the TROPOMI (passive grating imaging) instrument, which has a spatial sampling resolution of 7x7 km² and 4 separate detectors. This **sensor** is able to detect geolocated columns of ozone sulfur dioxide, nitrogen dioxide, carbon monoxide, formaldehyde, and methane as well as geolocated aerosol and cloud formation. By developing the **methane emissions protocol** to ensure compatibility with the newest Sentinel 5-p data products and integrating in-situ measurements that are able to decipher the distinct chemical fingerprints of a variety of methane sources, the **MEP will both visualize and predict alterations in methane emissions**.
+
+One of the goals of the MEP will be to **encourage and verify reduced flooding in rice paddies** in order to curtail the large amounts of methane emitted due to anaerobic digestion. This is a powerful example of a SP where monitoring and verifying ecological improvement becomes an element of both a multistakeholder initiative to shift farming practices as well as a brand story. Lotus Foods, a US rice brand is already taking leadership on this front, and would benefit greatly from trusted protocols and blockchain for verifying the methane specific ecological outcomes and, in telling this story through their branding and marketing, can offer added value to their customers and industry.
+
+_Additional protocols can be found in the Regen Network Ecological State Protocols document._
 
 ## 4. Market
 
