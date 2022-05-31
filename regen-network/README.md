@@ -256,36 +256,136 @@ The market section of **this document explores four existing markets** that will
 ### 4.1. Economic Model
 
 There are **three key mechanisms** core to Regen Network's ability to reroute a trajectory towards a livable planet for future generations:
-- Rewarding regenerative ecological outcomes.
-- Incentivizing accurate ecological data to be produced and shared.
-- Open ource technological development aimed at ecological and agricultural applications in blockchain, remote sensing, IoT, machine learning, and fintech.
+- **Rewarding** regenerative **ecological outcomes**.
+- **Incentivizing** accurate **ecological data** to be produced and shared.
+- **Open source technological development** aimed at **ecological and agricultural applications** in blockchain, remote sensing, IoT, machine learning, and fintech.
 
 ### 4.2. Application
+
+The strength of a cryptographic network providing common utility is defined by the applications built on top of it. This section explores the applications that may be built on top of Regen Ledger's Ecological State Protocols (ESPs), Ecological Contracts (ECs), and Supply Protocol (SP) described earlier.
+
 #### 4.2.1. Carbon Market Case Study
+
+**Carbon markets** currently exist as a way to help reduce the emissions of carbon and other greenhouse gases. The Paris Climate Agreement attempts to set a 2º C maximum global temperature rise ceiling due to climate change and sets an internationally accepted goal at 1.5º C. As there has already been 1º C of warming, such goals are extremely ambitious and will require not just cuts in emissions but active drawdown. The IFC‘s Climate Investment Opportunities Report, released in November 2016, identified $23 trillion in investment opportunities in emerging markets by 2030. Carbon markets represent one key pathway towards these ends within which there are **two types**:
+
+- **Voluntary Carbon Markets (VCM).** These are primarily utilized by **corporations aiming to offset carbon emissions**. The voluntary market is estimated to be **$191 million in volume in 2016**. There is a **surplus of carbon credits in the market** and **price varies** depending on the type of activity, location, age, standard, etc; not all credits are considered equal. The most-transacted project types by volume in 2016 were: REDD+, wind, landfill methane, large hydropower, and community-focused energy efficiency.
+- **Compliance Carbon Markets (CCM).** These are **cap-and-trade markets** set up by signatories of the Kyoto Protocol, and had a market volume of **$57 billion in 2015**. Compliance Carbon Markets are **much more heavily regulated** where entities exchange emission allowances to meet predetermined regulatory targets. Reductions are **imposed by public authorities and regulators** with high penalties for non-compliance.
+
+Many of the credits popular in the **voluntary markets** have been criticized as being **weak in impact**. Carbon credits are issued for avoided deforestation and the installation of solar panels. With current accounting methods, credits are **often double-counted**, sometimes repeatedly. This is fundamentally different than a net positive or carbon drawdown effect. In other cases, there have been **little to no penalties when outcomes are not reached**. The provenance of ecological outcomes traded in the marketplace matters.
+
+In application, **Regen Network** provides **three major upgrades for carbon markets**:
+1. **Automation** could significantly **reduce verification overhead** by using a **technology-driven model as part of the certification process**. This decentralized and cost-efficient process could allow a significant population of farmers previously not able to participate in the carbon markets to join in. According to Nori, a blockchain-powered drawdown carbon marketplace, carbon credits traditionally have an **overhead of 40-60% of the sales price**, with the remainder going to the outcome.
+2. **Outcome results will be more precise and trustable** in their relation to **actual carbon levels**. With a decentralized and self governed blockchain that is able to verify carbon in an open and transparent way, all verified outcomes will be recorded in a public ledger.
+3. **Activities currently being verified** as carbon credits **will be challenged** and a **market for superior drawdown credits** will be created. It will also have the added benefit of organizing communities, improving land steward/farmer livelihoods, and creating healthier soils.
+
 #### 4.2.2. Risk Mitigation Case Study
+
+According to the National Oceanic and Atmospheric Administration, 2017 was a record-breaking year in terms of both the number and cost of **weather and climate disasters**, with 16 separate disaster events causing **$306.2 billion dollars in damage**.
+
+As this climate instability intensifies, private institutions such as banks and insurance companies will need to find creative ways to **hedge exposure to these risks** and **increase resilience of the communities** with whom they are engaged. Many of these natural disasters will be unavoidable and ultimately increase the cost of doing business to a new normal. From the physical buildings where companies (and employees) reside, to active risk mitigation in portfolio management, a local understanding of **regenerative practices can support ecosystem health**.
+
+**Regen Ledger** can be used as a **preventive tool in the face of natural disasters**. At-risk industries like financial services (and communities at large) can rally together to **restore health to local bioregions and reduce the cost of damages**. By pledging rewards in Ecological Contracts to achieve specific ecological outcomes in their coverage areas, exposure can be quantifiably reduced. This use of the reward function of an Ecological Contract is only one way insurance companies can use smart contracting mechanisms to mitigate expense and maximize protection of clients. More complex data sets combined with Ecological Contracts also open up the possibility of reduced premiums for particular actions that reduce community risk in an area.
+
 #### 4.2.3. Supply Certifications Case Study
+
+The market for goods and services focused on health, the environment, social justice, personal development and sustainable living—has an estimated size of $290 billion. This consumer base has grown to reach 13-19% of US adults, nearly 41 million people who trust **certifications** like Organic, B Corp, USDA, Fair Trade USA, and Rainforest Alliance to guide their purchasing of products that support their ecological and social values. Given their unique capacity, skill sets, and supply systems, **companies like Patagonia and Starbucks have elected to create their own standards**. These standards are often nuanced and difficult to decipher for the average consumer.
+
+**Regenerative Agriculture** is trending as the new gold standard. You can find the term showcased at the largest natural and organic consumer packaged goods trade show events in the world, and leading edge companies are in the process of adopting regenerative agriculture into their supply systems and/or have created regenerative agriculture departments within their companies. As we become more connected to where our products come from and the impact of their production in the wake of climate change effects, these standards will become more valuable.
+
+In application, Regen Ledger‘s smart contracting framework can provide several **upgrades to supply system certifications** and the overall consumer experience. Using the integrated framework of Ecological State Protocols (ESPs) and Data Quality Protocols (DQPs), costly **verification systems can become more transparent, precise, and efficient**. This creates the potential for disintermediation in the market and improvement to methodologies as the public compares existing opaque systems, with the transparent, easily verifiable open source systems provided by Regen Network.
+
+Credibility will be maintained as meaningful due to **community participation in both verification and standard setting**. Consumers will also be able to engage with products in unprecedented ways. Since rewards can be staked in token markets, consumers will be able to filter products based on carbon drawdown and even earn tokens themselves by engaging in local land data verification methods.
+
+Regen Consortium and the Community Staking Pools' governance model lends itself well to certification organizations joining to utilize the power of Regen Ledger and global database to lower the cost and increase the quality of their certification processes, and perhaps even transcend the older compliance model with a newer direct connection to trusted participation through a democratically governed, distributed trust layer.
+
 #### 4.2.4. Farmer Software and Data Exchange Case Study
 
+Globally, **food and agriculture** is a **$7.8 trillion industry**, responsible for feeding the planet and hiring well over 40% of it. According to the International Fund for Agricultural Development (IFAD), there are an estimated 500 million smallholder farmers worldwide producing about 80% of the food.
+
+One **legacy issue** between farmers and agri-food tech companies has been **ownership and control of data**. Big profits from these agri-businesses does not necessarily trickle down to the farmers. This has remained an ambiguous gray area and source of tension for most companies trying to forge these relationships with farmers who have too often been taken advantage of in the past. The result has been the emergence of open sources companies like Farmer Business Network and FarmOS; NGOs like Open Ag Data Alliance; and government data exchanges like Data.gov/food dedicated to farmer data privacy, control, and empowerment. These renewed commitments to farmer empowerment and control are an important aspect of upgrading the current agricultural system.
+
+Currently, **most of the world's farmers are struggling to compete** in an economy that undervalues what they do and asks them to produce the highest quantity at the lowest price. This **extractive model** has led to the degradation of soils, the poisoning of our waterways, the loss of community resiliency, the de-nutrification of our food, and a culture disconnected from healthy food systems and the planet.
+
+**Regen Network** provides a great deal of **value that can be integrated with existing agritech farmer decision-making platforms as well as custom end-user applications**. Farmers will be able to access supplemental income by taking advantage of the capacity of their land to solicit **Ecological Contract rewards** placed by committed individuals, corporations, and governments. Additionally, the sheer amount of **farmer-owned and controlled data** available on the system will be extremely valuable in and of itself. The timestamped data index and data access protocols of Regen Ledger effectively create a **data marketplace** that allows farmer data to be bought and sold. This data could be queried via a custom DApp and/or integrated into existing agri-tech platforms. Investors interested in drawdown can locate and support farmers without the ability to regenerate their land financially or technically. Those farmers with the interest and land capacity can engage in smart contracts to split the rewards in a cooperative effort to increase livelihoods, drawdown carbon, and improve ecosystem health - all with the bonus of higher crop yields and reduced management costs.
 
 ## 5. Governance
 
+In order to fulfill the mandate set out in its mission, Regen Network will pursue three **concurrent areas of activity**:
+1. The **development and launch of a distributed ledger** specifically tuned to support the verification of ecological outcomes, incentivization of positive ecological outcomes, supply system tracking, and related functionality.
+2. The **development of protocols for the verification** of ecological outcomes.
+3. Ongoing **engagement with and support of the emergent movements** surrounding regenerative agriculture, ecological land/water/air stewardship, and alternative economics.
+
+At the heart of Regen Network will be a **native network token called Regen Token ($REGEN)**. Regen Tokens will run natively on Regen Ledger. This token will allow for **staking on validators** to secure the network, **access to trusted data fueling protocols** and **end-user applications**, and be **used to reward ecological outcomes**.
+
+To **support the development** of the Regen Ledger, various protocols, and development of the $REGEN, **Regen Network Development, Inc. (RND), a Delaware C-Corp**, will issue **Simple Agreement for Future Tokens (SAFTs)**.
+
+**RND** will develop the **Regen Ledger and $REGEN token**, with the understanding that **RND will donate certain assets and intellectual property rights to Regen Foundation** when advisable from a legal, tax, accounting, and business perspective.
+
 ### 5.1. Regen Foundation
+
+**Regen Foundation** is a Delaware **non-stock corporation** applying to become a **federal 501(c)(3) public charity**, created to support the growth of Regen Network and develop and maintain Regen Ledger software, associated compute infrastructure, key protocols, and frontend apps for achieving and rewarding ecological regeneration.
 
 ### 5.2. Foundation Governance
 
+Regen Foundation will have a **board of five directors** (two internal, and three external) to be **appointed by the founding team** of Regen Network.
+
+Beginning **three years after the formation** of the legal entity, **a board seat will come up for appointment each year**, so that the board will have **full turnover by year eight**. External seats will come up for appointment first. From year three forward, board seats will have a five year term. Appointments from year three forward will be **determined by Regen Consortium** (Consortium), which will be comprised of the members of the Foundation.
+
+Specific **responsibilites of Regen Foundation in relation to the Consortium** will be:
+- Convening a **yearly gathering of Consortium members** and other members of the larger Regen Network community (data providers, farmers, user groups, developers, etc.).
+- **Granting and investing** in businesses, non-profits, or independent initiatives that further the aforementioned aims.
+- **Providing software interfaces** for network transparency and consortium voting.
+- **Growing the consortium** of trusted organizations around the world working in the domain of ecological monitoring, regeneration, and data science.
+
+Once created, **Regen Ledger will be governed autonomously by $REGEN token holders**, including Regen Consortium. At this stage, Regen Ledger will be a public blockchain. Regen Ledger is an a-legal entity, meaning that even if something happens to Regen Foundation, Regen Ledger will be able to continue to operate as a censorship resistant record of ecological health and platform for ecological agreements under the stewardship of Regen Ledger's network of validator nodes and token holders. This structure creates a firewall between the Foundation and Ledger to ensure that the mission will be seen out in the face of a range of possible challenges.
+
+![Towards Decentralization](https://user-images.githubusercontent.com/81234139/171253811-b46d5106-c14a-47c3-9b9a-188ad823810c.png)
+
 ### 5.3. Foundation Entity Type: US 501(c)(3)
 
+Regen Foundation is a Delaware non-stock corporation, and will be applying for US 501(c)(3) status as a public charity. There are three main reasons behind the choice:
+1. **Securities Laws:** Many other projects in the crypto and blockchain space pursuing the issuance of utility tokens hoping to avoid US securities laws have shied away from US jurisdiction. We believe there is a need to be clear with our early backers that the token, at the stage of issuance via a SAFT, is indeed a security, even though as the system matures we believe the token will evolve into what should most appropriately be considered a commodity. Additionally, the Securities and Exchange Commission will maintain jurisdiction over securities investors operating from and within the US. A foreign domicile doesn't necessarily offer better protection if US contributors are involved.
+2. **Corporate Governance:** In order for Regen Network as a whole to succeed, Regen Ledger must be adopted and governed by institutional organizational stakeholders. This application of blockchain is an innovation to existing market and governance mechanisms and must be understandable and trusted by our stakeholders; the 501(c)(3) structure can serve as a bridge between these paradigms. There are many examples of comparable public-benefit entities that maintain infrastructure that are already recognized by the IRS, which lead us to believe that our application also warrants charitable status. We wish to maintain explicit and democratic governance over this infrastructure, both on and off chain.
+3. **US-Centric Team:** Although Regen Network will be a global project, and already has a team distributed around the world, the founders of the project are mostly US citizens. This means that the project will need to comply with US law, so we deem it to be more efficient to simply use the US as the jurisdiction of choice.
+
 ### 5.4. Overview of Regen Consortium
-#### 5.4.1. Consortium Membership Process
-#### 5.4.2. Removal Process for Consortium Member
-#### 5.4.3. Governance and Consensus Mechanism
+
+**Regen Consortium** is the **group of organizations governing 5 million $REGEN**, permanently locked and staked to secure Regen Ledger. Locking, in this case, is a technical term in the Cosmos SDK which means that the tokens can be staked with a validator, and the tokens can vote on network upgrades, but they cannot be exchanged to a new address. This enables us to maintain **at least 35% voting power in locked governance DAOs** with unique characteristics to optimize for community engagement in the governance of the blockchain and platform (read more on these DAO in the Community Staking Pools section below).
+
+The **initial Consortium members will be invited by Regen Foundation**, and from that point forward this body will be self-governing. Regen Consortium enables an unprecedented democratic and cooperative movement to be built around growing institutional capacity to account for ecological health in decision making and reward increases in ecological health. Many Proof-of-Stake blockchains lack the ability to incorporate non-token-holding stakeholders and users into the governance of the Blockchain. To optimally serve the interests of users who are working together for ecological health outcomes it is clear that the distinct communities of users who may be unable to purchase tokens as a prerequisite for participation in governance should still have a seat at the proverbial table.
+
+The **Consortium/Community Staking Pools model has two major benefits** in this application:
+1. Authority over just over 1/3 of the votes needed for consensus will be held by known actors, which we believe will be beneficial for the health, security, and growth of the network.
+2. This enables organizations to participate in governing the blockchain they use to help track ecological health and issue direct rewards for increases in ecological health that benefit their communities.
+
+Consortium members will be organizations with expertise and leadership in the domains of the platform: regenerative agriculture, remote sensing, circular economy, ecology, earth systems, blockchain, and regenerative economics.
+
+_For further information on the Consortium membership process, the removal process for Consortium members, and the governance and consensus mechanism, read the full Regen Network Whitepaper (sections 5.4.1, 5.4.2, and 5.4.3)._
 
 ### 5.5. Community Staking Pools
 
-### 5.6. Background on Governance Design
+**30 million $REGEN** will be placed in the **Community Staking Pool** at genesis block, split between no less than three constituency groups.
+
+**Criteria** for a **constituency DAO formation** (taking over keys):
+- Signed by no less than 10 addresses that are verified by Regen Foundation and the Validator Set.
+- KYC/AML: Organization in good standing in approved legal jurisdiction of incorporation (list pending).
+- Ratify a statement of fiduciary responsibility for ecosystem health clause in corporate bylaws of organization of signer.
+- Exclusive use of network through DAO Agreement: The organization must sign a legal document stating that they do not and will not personally hold or manage any $REGEN for any reason (e.g. that they will restrict their interactions with the network through the DAO that they belong to and manage). Note: if this is discovered to not be true, this organization will be removed from the constituency governance DAO by vote of the DAO.
+- Drafting and adoption of DAO operating agreements.
+- Legal reflection of DAO operating structure: DAO must be incorporated in appropriate legal jurisdiction and have contracts with Regen Foundation outlining the appropriate responsibilities and rights.
+
+Like any staked entity on the network, a DAO can both be slashed and will earn block rewards and fees and can vote on what to do with those fees ensures that this community is deeply aligned with the shared value generation of the network.
+
+Before these DAOs have come online, the Foundation will steward these token pools by delegations to approved validators. The approval process of these validators will follow a strict selection process which will prioritize: 
+- Security and competency of operation (no delegations will be allowed to operators running purely cloud-based set ups)
+- Rating of support of bootstrapping the network (performance in test nets and longevity of testnet participation)
+- istribution of stake to ensure diversification security
+
+_For further information on the background of the governance design choices made, read the full Regen Network Whitepaper (section 5.6)._
 
 ### 5.7. Token Sale and Development
 
+Since its conception in 2016, Regen Network has been incubated by a regenerative supply consultancy, **Terra Genesis International, LLC (TGI)**. In order to have the leeway to issue team token allocations, reimburse TGI for startup costs, and because running a token sale out of a non-profit has considerable legal uncertainty, initial SAFTs will be signed with Regen Network Development, Inc., a Delaware C-Corp. Proceeds will, in part, be utilized for the development of Regen Network.
 
 ## 6. Regen ($REGEN) Token
 
