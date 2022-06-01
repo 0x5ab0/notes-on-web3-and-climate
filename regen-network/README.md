@@ -389,9 +389,57 @@ Since its conception in 2016, Regen Network has been incubated by a regenerative
 
 ## 6. Regen ($REGEN) Token
 
+**Regen ($REGEN)** will be a blockchain token native to Regen Ledger for the purpose of carrying out functions central to the operation of Regen Network. In essence, $REGENs are **programmable digital tokens** that can be **used to access** the mix of **functions that make it possible to verify ecological outcome and distribute rewards** for those outcomes.
+
+**$REGENs** purchased through **Sale Agreements for Future Tokens (SAFTs)** will give project supporters the rights to receive token allocations once Regen Ledger is operational. From the initial Token Generation Event (TGE) forward, newly minted tokens will be issued by Regen Ledger.
+
 ### 6.1. Token Minting and Granting
+
+Commensurate with the **Cosmos "inflation" mechanism**, an annual increase in tokens is allocated to $REGEN addresses according to the number of $REGEN tokens that are bonded. This incentivizes $REGEN holders to be actively involved in securing the network, and disincentivized those who do not participate. Inflation will be **between 7% and 20%**, relative to the percentage of $REGEN staked. There will be a 7% increase in token supply when 66% or more of tokens are staked, rising to 20% when less than 66% are staked. Cosmos launched with a one year window for this to change. Regen will launch with a three-month window (one financial quarter), making supply increase more dynamic.
+
 ### 6.2. Fees
+
+Like other distributed ledgers, **Regen Ledger will collect fees in $REGEN** tokens **for all transactions**. Fees will be **shared equitably between validation, compute, data, audit, insurance, and contributors to ESPs**.
+
+It is a general design goal that transaction fees be **appropriate to the use case** and **predictable** wherever possible. For instance, if we charge a farmer a transaction fee for timestamping a sensor reading, this fee should be small enough so that it is of minimal cost to the farmer. It should also be predictable so that the farmer knows how much they will pay and their transaction doesn‘t fail if the transaction actually cost more than the farmer was willing to pay and had to be aborted before completing (which wastes both computational power and the farmer‘s time and money).
+
+Regen Ledger will be designed such that whenever possible **transaction costs are pre-computed and transactions either succeed completely or fail completely and return all tokens** if not enough tokens were provided. For data analysis operations that use off-chain algorithms, it may be hard to predict the total cost; so, users requesting verification will need to put up more tokens than they expect the operation to take and computations will likely be metered in milliseconds of compute time. Ideally, these algorithms will be benchmarked accurately so that the costs can be predicted relatively well, but it is for this reason that it is a design goal for the ESP framework to adopt frameworks enabling full-fledged data analysis language that can effectively pre-compute maximum costs.
+
+![Token Flow](https://user-images.githubusercontent.com/81234139/171371911-4355c6a9-1522-461f-ab79-c0b0bda13b5d.png)
+
 ### 6.3. $REGEN Allocation, Timeframe, and Access
 
+**Supply at mainnet launch** will be **100 million tokens**. Some unsold tokens may be burnt (details below). Numbers are given in million $REGEN.
+
+- **35mm** for **Community Staking Pool and Regen Foundation**
+  - Staked permanently.
+  - Community governance staking model focused on Land Stewards, Science, and Developers.
+  - Staking rewards will be managed to maintain at least 1/3 voting block power (Byzantine veto) in the long term.
+- **23mm** **Non-sale allocations**
+  - 15mm Regen Network Development, Inc.
+  - 5mm Network Bootstrapping Fund.
+  - 3mm ATOM-holder airdrop and work-lock w/KYC.
+    - Linear unlock over 3 years.
+- **42mm** **Fundraising and Market Offerings**
+  - Up to 4mm in a legally-compliant public offering $2.8mm at $0.70
+    - Pending legal, tax, and exchange approval.
+    - Not locked.
+  - **32mm** **Pre-sale** to community
+    - $9.5mm-18.4mm sold at $0.21-0.63.
+    - All tokens locked for a minimum of one year.
+    - Discount related to lock schedule.
+    - At mainnet launch, any tokens reserved for the private sale not yet sold will be burnt.
+  - **6mm** Already **sold to investors**
+    - Locked for varying lengths, deal by deal.
+
+SAFT contributors will receive their $REGEN a year after signing, in accordance with SEC Rule 144.
+
+Tokens will be allocated when Regen Ledger is functional. $REGENs will be available through a command-line interface created by the issuer. Third-party wallets with user interfaces are expected but not guaranteed.
 
 ## 7. Conclusion
+
+In this whitepaper, we have provided a roadmap to the creation of a **distributed ledger solution** that allows stakeholders to **issue smart contracts that value increases in ecosystem health**. We have explained the key **technological hurdles** that Regen Ledger must overcome and differentiated the unique challenges faced by a domain-specific blockchain project focused on creating an ecological ledger. We have introduced the concept of **Ecological State Protocols** and the **Regen Ledger protocol frameworks**, and shown how **data quality** can be assured and improved. We have provided an overview of the **market forces** and the economic potential that can be fostered as well as linked this economic potential to ecological regeneration outcomes. Finally, we have outlined a **democratic and decentralized governance structure** that can interface with local and international stakeholders to safeguard the intended utility of the system.
+
+Regen Network represents a holistic solution that makes it possible to take **coordinated, transparent action to increase ecosystem health** for the benefit of all stakeholders. These actions take place through an **open data platform with decentralized governance**. All of these facets are unified before our **native digital currency, $REGEN**.
+
+**Regen Ledger** is a platform that simultaneously serves as a **true cost accounting machine**, an **ecological data marketplace**, a **distributed computational network**, and a **biospheric monitoring device**. Regen Network puts technology to work in service to the biosphere. It will track changes in ecosystem health and **contractually reward land stewards** for regenerative outcomes.
